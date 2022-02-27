@@ -6,4 +6,7 @@ pip-log.txt
 *.spec
 __pypackages__/
 wiki.egg-info/
+.eggs/
 build/
+notes.md
+bootstrap
